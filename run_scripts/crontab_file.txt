@@ -1,0 +1,3 @@
+ssh discover-cron
+00 23 * * * /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/run_scripts/run_firex_nam_download.tcl >& /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/logs/run_firex_nam_download.log
+18 23 * * * /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/run_scripts/run_firex_nam_daily.tcl >& /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/logs/run_firex_nam_daily.log

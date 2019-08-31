@@ -1,0 +1,125 @@
+directory /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/tracer/20190816 made
+directory /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/nofire/20190816 made
+directory /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/analysis/20190816 made
+# ---------------------------------------------------------
+# get maiac data from EARTHDATA, NASA
+# ---------------------------------------------------------
+directory /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/input/MAIAC made
+downloading: 20190813
+
+
+WARNING: Can't find curl, use wget instead.
+WARNING: Script may not correctly identify Earthdata Login integrations.
+
+
+Unable to Retrieve Data
+
+Command failed with error. Please retrieve the data manually.
+
+https://e4ftl01.cr.usgs.gov//MODV6_Dal_H/MOTA/MCD19A2.006/2019.05.06/MCD19A2.A2019126.h16v06.006.2019128034226.hdf
+
+WARNING: timestamping does nothing in combination with -O. See the manual
+for details.
+
+--2019-08-16 12:06:06--  https://e4ftl01.cr.usgs.gov/MOTA/MCD19A2.006/2019.08.13/
+Resolving e4ftl01.cr.usgs.gov (e4ftl01.cr.usgs.gov)... 152.61.133.130, 2001:49c8:4000:127d::133:130
+Connecting to e4ftl01.cr.usgs.gov (e4ftl01.cr.usgs.gov)|152.61.133.130|:443... failed: No route to host.
+Connecting to e4ftl01.cr.usgs.gov (e4ftl01.cr.usgs.gov)|2001:49c8:4000:127d::133:130|:443... failed: Cannot assign requested address.
+Retrying.
+
+--2019-08-16 12:06:09--  (try: 2)  https://e4ftl01.cr.usgs.gov/MOTA/MCD19A2.006/2019.08.13/
+Connecting to e4ftl01.cr.usgs.gov (e4ftl01.cr.usgs.gov)|152.61.133.130|:443... failed: No route to host.
+Connecting to e4ftl01.cr.usgs.gov (e4ftl01.cr.usgs.gov)|2001:49c8:4000:127d::133:130|:443... failed: Cannot assign requested address.
+Retrying.
+
+--2019-08-16 12:06:13--  (try: 3)  https://e4ftl01.cr.usgs.gov/MOTA/MCD19A2.006/2019.08.13/
+Connecting to e4ftl01.cr.usgs.gov (e4ftl01.cr.usgs.gov)|152.61.133.130|:443... failed: No route to host.
+Connecting to e4ftl01.cr.usgs.gov (e4ftl01.cr.usgs.gov)|2001:49c8:4000:127d::133:130|:443... failed: Cannot assign requested address.
+Retrying.
+
+--2019-08-16 12:06:17--  (try: 4)  https://e4ftl01.cr.usgs.gov/MOTA/MCD19A2.006/2019.08.13/
+Connecting to e4ftl01.cr.usgs.gov (e4ftl01.cr.usgs.gov)|152.61.133.130|:443... failed: No route to host.
+Connecting to e4ftl01.cr.usgs.gov (e4ftl01.cr.usgs.gov)|2001:49c8:4000:127d::133:130|:443... failed: Cannot assign requested address.
+Retrying.
+
+--2019-08-16 12:06:24--  (try: 5)  https://e4ftl01.cr.usgs.gov/MOTA/MCD19A2.006/2019.08.13/
+Connecting to e4ftl01.cr.usgs.gov (e4ftl01.cr.usgs.gov)|152.61.133.130|:443... failed: No route to host.
+Connecting to e4ftl01.cr.usgs.gov (e4ftl01.cr.usgs.gov)|2001:49c8:4000:127d::133:130|:443... failed: Cannot assign requested address.
+Retrying.
+
+--2019-08-16 12:06:32--  (try: 6)  https://e4ftl01.cr.usgs.gov/MOTA/MCD19A2.006/2019.08.13/
+Connecting to e4ftl01.cr.usgs.gov (e4ftl01.cr.usgs.gov)|152.61.133.130|:443... failed: No route to host.
+Connecting to e4ftl01.cr.usgs.gov (e4ftl01.cr.usgs.gov)|2001:49c8:4000:127d::133:130|:443... failed: Cannot assign requested address.
+Retrying.
+
+--2019-08-16 12:06:41--  (try: 7)  https://e4ftl01.cr.usgs.gov/MOTA/MCD19A2.006/2019.08.13/
+Connecting to e4ftl01.cr.usgs.gov (e4ftl01.cr.usgs.gov)|152.61.133.130|:443... failed: No route to host.
+Connecting to e4ftl01.cr.usgs.gov (e4ftl01.cr.usgs.gov)|2001:49c8:4000:127d::133:130|:443... failed: Cannot assign requested address.
+Retrying.
+
+--2019-08-16 12:06:51--  (try: 8)  https://e4ftl01.cr.usgs.gov/MOTA/MCD19A2.006/2019.08.13/
+Connecting to e4ftl01.cr.usgs.gov (e4ftl01.cr.usgs.gov)|152.61.133.130|:443... failed: No route to host.
+Connecting to e4ftl01.cr.usgs.gov (e4ftl01.cr.usgs.gov)|2001:49c8:4000:127d::133:130|:443... failed: Cannot assign requested address.
+Retrying.
+
+--2019-08-16 12:07:02--  (try: 9)  https://e4ftl01.cr.usgs.gov/MOTA/MCD19A2.006/2019.08.13/
+Connecting to e4ftl01.cr.usgs.gov (e4ftl01.cr.usgs.gov)|152.61.133.130|:443... failed: No route to host.
+Connecting to e4ftl01.cr.usgs.gov (e4ftl01.cr.usgs.gov)|2001:49c8:4000:127d::133:130|:443... failed: Cannot assign requested address.
+Retrying.
+
+--2019-08-16 12:07:14--  (try:10)  https://e4ftl01.cr.usgs.gov/MOTA/MCD19A2.006/2019.08.13/
+Connecting to e4ftl01.cr.usgs.gov (e4ftl01.cr.usgs.gov)|152.61.133.130|:443... failed: No route to host.
+Connecting to e4ftl01.cr.usgs.gov (e4ftl01.cr.usgs.gov)|2001:49c8:4000:127d::133:130|:443... failed: Cannot assign requested address.
+Retrying.
+
+--2019-08-16 12:07:27--  (try:11)  https://e4ftl01.cr.usgs.gov/MOTA/MCD19A2.006/2019.08.13/
+Connecting to e4ftl01.cr.usgs.gov (e4ftl01.cr.usgs.gov)|152.61.133.130|:443... failed: No route to host.
+Connecting to e4ftl01.cr.usgs.gov (e4ftl01.cr.usgs.gov)|2001:49c8:4000:127d::133:130|:443... failed: Cannot assign requested address.
+Retrying.
+
+--2019-08-16 12:07:40--  (try:12)  https://e4ftl01.cr.usgs.gov/MOTA/MCD19A2.006/2019.08.13/
+Connecting to e4ftl01.cr.usgs.gov (e4ftl01.cr.usgs.gov)|152.61.133.130|:443... failed: No route to host.
+Connecting to e4ftl01.cr.usgs.gov (e4ftl01.cr.usgs.gov)|2001:49c8:4000:127d::133:130|:443... failed: Cannot assign requested address.
+Retrying.
+
+--2019-08-16 12:07:53--  (try:13)  https://e4ftl01.cr.usgs.gov/MOTA/MCD19A2.006/2019.08.13/
+Connecting to e4ftl01.cr.usgs.gov (e4ftl01.cr.usgs.gov)|152.61.133.130|:443... failed: No route to host.
+Connecting to e4ftl01.cr.usgs.gov (e4ftl01.cr.usgs.gov)|2001:49c8:4000:127d::133:130|:443... failed: Cannot assign requested address.
+Retrying.
+
+--2019-08-16 12:08:06--  (try:14)  https://e4ftl01.cr.usgs.gov/MOTA/MCD19A2.006/2019.08.13/
+Connecting to e4ftl01.cr.usgs.gov (e4ftl01.cr.usgs.gov)|152.61.133.130|:443... failed: No route to host.
+Connecting to e4ftl01.cr.usgs.gov (e4ftl01.cr.usgs.gov)|2001:49c8:4000:127d::133:130|:443... failed: Cannot assign requested address.
+Retrying.
+
+--2019-08-16 12:08:19--  (try:15)  https://e4ftl01.cr.usgs.gov/MOTA/MCD19A2.006/2019.08.13/
+Connecting to e4ftl01.cr.usgs.gov (e4ftl01.cr.usgs.gov)|152.61.133.130|:443... failed: No route to host.
+Connecting to e4ftl01.cr.usgs.gov (e4ftl01.cr.usgs.gov)|2001:49c8:4000:127d::133:130|:443... failed: Cannot assign requested address.
+Retrying.
+
+--2019-08-16 12:08:32--  (try:16)  https://e4ftl01.cr.usgs.gov/MOTA/MCD19A2.006/2019.08.13/
+Connecting to e4ftl01.cr.usgs.gov (e4ftl01.cr.usgs.gov)|152.61.133.130|:443... failed: No route to host.
+Connecting to e4ftl01.cr.usgs.gov (e4ftl01.cr.usgs.gov)|2001:49c8:4000:127d::133:130|:443... failed: Cannot assign requested address.
+Retrying.
+
+--2019-08-16 12:08:45--  (try:17)  https://e4ftl01.cr.usgs.gov/MOTA/MCD19A2.006/2019.08.13/
+Connecting to e4ftl01.cr.usgs.gov (e4ftl01.cr.usgs.gov)|152.61.133.130|:443... failed: No route to host.
+Connecting to e4ftl01.cr.usgs.gov (e4ftl01.cr.usgs.gov)|2001:49c8:4000:127d::133:130|:443... failed: Cannot assign requested address.
+Retrying.
+
+--2019-08-16 12:08:58--  (try:18)  https://e4ftl01.cr.usgs.gov/MOTA/MCD19A2.006/2019.08.13/
+Connecting to e4ftl01.cr.usgs.gov (e4ftl01.cr.usgs.gov)|152.61.133.130|:443... failed: No route to host.
+Connecting to e4ftl01.cr.usgs.gov (e4ftl01.cr.usgs.gov)|2001:49c8:4000:127d::133:130|:443... failed: Cannot assign requested address.
+Retrying.
+
+--2019-08-16 12:09:11--  (try:19)  https://e4ftl01.cr.usgs.gov/MOTA/MCD19A2.006/2019.08.13/
+Connecting to e4ftl01.cr.usgs.gov (e4ftl01.cr.usgs.gov)|152.61.133.130|:443... failed: No route to host.
+Connecting to e4ftl01.cr.usgs.gov (e4ftl01.cr.usgs.gov)|2001:49c8:4000:127d::133:130|:443... failed: Cannot assign requested address.
+Retrying.
+
+--2019-08-16 12:09:24--  (try:20)  https://e4ftl01.cr.usgs.gov/MOTA/MCD19A2.006/2019.08.13/
+Connecting to e4ftl01.cr.usgs.gov (e4ftl01.cr.usgs.gov)|152.61.133.130|:443... failed: No route to host.
+Connecting to e4ftl01.cr.usgs.gov (e4ftl01.cr.usgs.gov)|2001:49c8:4000:127d::133:130|:443... failed: Cannot assign requested address.
+Giving up.
+
+downloading: 20190814

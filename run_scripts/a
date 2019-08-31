@@ -1,0 +1,16 @@
+#!/usr/bin/wish -f
+
+for {set x 0} {$x<5} {incr x} {
+    if {$x > 2} {
+        break
+    }
+    puts "x is $x"
+}
+
+puts "good"
+    puts "x is $x"
+
+
+set ncks "/usr/local/other/SLES11.3/nco/4.6.8/gcc-5.3-sp3/bin/ncks"
+eval "exec $ncks "
+

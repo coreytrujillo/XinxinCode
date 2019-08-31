@@ -1,0 +1,1092 @@
+directory /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/tracer/20190831 made
+directory /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/nofire/20190831 made
+directory /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/analysis/20190831 made
+# ---------------------------------------------------------
+# run wrf part1
+# ---------------------------------------------------------
+Linked wrffirechemi_D01 to WRF folder for tracer run
+Date start TRACER D01= 2019-08-28_06:00:00
+Date end TRACER D01= 2019-08-31_22:00:00
+Date end NO FIRE D01= 2019-08-31_22:00:00
+Waiting wrf_tracer to complete...
+Waiting wrf_nofire to complete...
+Complete WRF nofire run!
+Complete WRF tracer run!
+Date end = 2019-08-28_06:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-28_07:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-28_08:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-28_09:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-28_10:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-28_11:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-28_12:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-28_13:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-28_14:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-28_15:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-28_16:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-28_17:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-28_18:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-28_19:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-28_20:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-28_21:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-28_22:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-28_23:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-29_00:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-29_01:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-29_02:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-29_03:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-29_04:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-29_05:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-29_06:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-29_07:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-29_08:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-29_09:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-29_10:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-29_11:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-29_12:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-29_13:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-29_14:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-29_15:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-29_16:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-29_17:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-29_18:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-29_19:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-29_20:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-29_21:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-29_22:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-29_23:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-30_00:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-30_01:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-30_02:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-30_03:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-30_04:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-30_05:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-30_06:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-30_07:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-30_08:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-30_09:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-30_10:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-30_11:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-30_12:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-30_13:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-30_14:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-30_15:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-30_16:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-30_17:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-30_18:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-30_19:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-30_20:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-30_21:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-30_22:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-30_23:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-31_00:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-31_01:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-31_02:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-31_03:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-31_04:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-31_05:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-31_06:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-31_07:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-31_08:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-31_09:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-31_10:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-31_11:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-31_12:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-31_13:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-31_14:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-31_15:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-31_16:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-31_17:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-31_18:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-31_19:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-31_20:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-31_21:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-31_22:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-28_06:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-28_07:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-28_08:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-28_09:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-28_10:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-28_11:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-28_12:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-28_13:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-28_14:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-28_15:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-28_16:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-28_17:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-28_18:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-28_19:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-28_20:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-28_21:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-28_22:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-28_23:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-29_00:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-29_01:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-29_02:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-29_03:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-29_04:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-29_05:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-29_06:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-29_07:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-29_08:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-29_09:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-29_10:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-29_11:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-29_12:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-29_13:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-29_14:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-29_15:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-29_16:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-29_17:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-29_18:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-29_19:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-29_20:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-29_21:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-29_22:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-29_23:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-30_00:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-30_01:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-30_02:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-30_03:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-30_04:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-30_05:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-30_06:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-30_07:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-30_08:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-30_09:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-30_10:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-30_11:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-30_12:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-30_13:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-30_14:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-30_15:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-30_16:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-30_17:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-30_18:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-30_19:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-30_20:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-30_21:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-30_22:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-30_23:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-31_00:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-31_01:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-31_02:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-31_03:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-31_04:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-31_05:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-31_06:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-31_07:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-31_08:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-31_09:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-31_10:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-31_11:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-31_12:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-31_13:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-31_14:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-31_15:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-31_16:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-31_17:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-31_18:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-31_19:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-31_20:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-31_21:00:00
+qsub ./runjoiner.csh
+Date end = 2019-08-31_22:00:00
+qsub ./runjoiner.csh
+Joining tile files finish!
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/tracer/20190831/DONE.wrfout_d01_2019-08-28_06:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/tracer/20190831/DONE.wrfout_d01_2019-08-28_07:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/tracer/20190831/DONE.wrfout_d01_2019-08-28_08:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/tracer/20190831/DONE.wrfout_d01_2019-08-28_09:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/tracer/20190831/DONE.wrfout_d01_2019-08-28_10:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/tracer/20190831/DONE.wrfout_d01_2019-08-28_11:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/tracer/20190831/DONE.wrfout_d01_2019-08-28_12:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/tracer/20190831/DONE.wrfout_d01_2019-08-28_13:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/tracer/20190831/DONE.wrfout_d01_2019-08-28_14:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/tracer/20190831/DONE.wrfout_d01_2019-08-28_15:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/tracer/20190831/DONE.wrfout_d01_2019-08-28_16:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/tracer/20190831/DONE.wrfout_d01_2019-08-28_17:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/tracer/20190831/DONE.wrfout_d01_2019-08-28_18:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/tracer/20190831/DONE.wrfout_d01_2019-08-28_19:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/tracer/20190831/DONE.wrfout_d01_2019-08-28_20:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/tracer/20190831/DONE.wrfout_d01_2019-08-28_21:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/tracer/20190831/DONE.wrfout_d01_2019-08-28_22:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/tracer/20190831/DONE.wrfout_d01_2019-08-28_23:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/tracer/20190831/DONE.wrfout_d01_2019-08-29_00:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/tracer/20190831/DONE.wrfout_d01_2019-08-29_01:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/tracer/20190831/DONE.wrfout_d01_2019-08-29_02:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/tracer/20190831/DONE.wrfout_d01_2019-08-29_03:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/tracer/20190831/DONE.wrfout_d01_2019-08-29_04:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/tracer/20190831/DONE.wrfout_d01_2019-08-29_05:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/tracer/20190831/DONE.wrfout_d01_2019-08-29_06:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/tracer/20190831/DONE.wrfout_d01_2019-08-29_07:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/tracer/20190831/DONE.wrfout_d01_2019-08-29_08:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/tracer/20190831/DONE.wrfout_d01_2019-08-29_09:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/tracer/20190831/DONE.wrfout_d01_2019-08-29_10:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/tracer/20190831/DONE.wrfout_d01_2019-08-29_11:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/tracer/20190831/DONE.wrfout_d01_2019-08-29_12:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/tracer/20190831/DONE.wrfout_d01_2019-08-29_13:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/tracer/20190831/DONE.wrfout_d01_2019-08-29_14:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/tracer/20190831/DONE.wrfout_d01_2019-08-29_15:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/tracer/20190831/DONE.wrfout_d01_2019-08-29_16:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/tracer/20190831/DONE.wrfout_d01_2019-08-29_17:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/tracer/20190831/DONE.wrfout_d01_2019-08-29_18:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/tracer/20190831/DONE.wrfout_d01_2019-08-29_19:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/tracer/20190831/DONE.wrfout_d01_2019-08-29_20:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/tracer/20190831/DONE.wrfout_d01_2019-08-29_21:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/tracer/20190831/DONE.wrfout_d01_2019-08-29_22:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/tracer/20190831/DONE.wrfout_d01_2019-08-29_23:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/tracer/20190831/DONE.wrfout_d01_2019-08-30_00:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/tracer/20190831/DONE.wrfout_d01_2019-08-30_01:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/tracer/20190831/DONE.wrfout_d01_2019-08-30_02:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/tracer/20190831/DONE.wrfout_d01_2019-08-30_03:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/tracer/20190831/DONE.wrfout_d01_2019-08-30_04:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/tracer/20190831/DONE.wrfout_d01_2019-08-30_05:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/tracer/20190831/DONE.wrfout_d01_2019-08-30_06:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/tracer/20190831/DONE.wrfout_d01_2019-08-30_07:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/tracer/20190831/DONE.wrfout_d01_2019-08-30_08:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/tracer/20190831/DONE.wrfout_d01_2019-08-30_09:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/tracer/20190831/DONE.wrfout_d01_2019-08-30_10:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/tracer/20190831/DONE.wrfout_d01_2019-08-30_11:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/tracer/20190831/DONE.wrfout_d01_2019-08-30_12:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/tracer/20190831/DONE.wrfout_d01_2019-08-30_13:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/tracer/20190831/DONE.wrfout_d01_2019-08-30_14:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/tracer/20190831/DONE.wrfout_d01_2019-08-30_15:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/tracer/20190831/DONE.wrfout_d01_2019-08-30_16:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/tracer/20190831/DONE.wrfout_d01_2019-08-30_17:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/tracer/20190831/DONE.wrfout_d01_2019-08-30_18:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/tracer/20190831/DONE.wrfout_d01_2019-08-30_19:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/tracer/20190831/DONE.wrfout_d01_2019-08-30_20:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/tracer/20190831/DONE.wrfout_d01_2019-08-30_21:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/tracer/20190831/DONE.wrfout_d01_2019-08-30_22:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/tracer/20190831/DONE.wrfout_d01_2019-08-30_23:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/tracer/20190831/DONE.wrfout_d01_2019-08-31_00:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/tracer/20190831/DONE.wrfout_d01_2019-08-31_01:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/tracer/20190831/DONE.wrfout_d01_2019-08-31_02:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/tracer/20190831/DONE.wrfout_d01_2019-08-31_03:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/tracer/20190831/DONE.wrfout_d01_2019-08-31_04:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/tracer/20190831/DONE.wrfout_d01_2019-08-31_05:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/tracer/20190831/DONE.wrfout_d01_2019-08-31_06:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/tracer/20190831/DONE.wrfout_d01_2019-08-31_07:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/tracer/20190831/DONE.wrfout_d01_2019-08-31_08:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/tracer/20190831/DONE.wrfout_d01_2019-08-31_09:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/tracer/20190831/DONE.wrfout_d01_2019-08-31_10:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/tracer/20190831/DONE.wrfout_d01_2019-08-31_11:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/tracer/20190831/DONE.wrfout_d01_2019-08-31_12:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/tracer/20190831/DONE.wrfout_d01_2019-08-31_13:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/tracer/20190831/DONE.wrfout_d01_2019-08-31_14:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/tracer/20190831/DONE.wrfout_d01_2019-08-31_15:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/tracer/20190831/DONE.wrfout_d01_2019-08-31_16:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/tracer/20190831/DONE.wrfout_d01_2019-08-31_17:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/tracer/20190831/DONE.wrfout_d01_2019-08-31_18:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/tracer/20190831/DONE.wrfout_d01_2019-08-31_19:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/tracer/20190831/DONE.wrfout_d01_2019-08-31_20:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/tracer/20190831/DONE.wrfout_d01_2019-08-31_21:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/tracer/20190831/DONE.wrfout_d01_2019-08-31_22:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/nofire/20190831/DONE.wrfout_d01_2019-08-28_06:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/nofire/20190831/DONE.wrfout_d01_2019-08-28_07:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/nofire/20190831/DONE.wrfout_d01_2019-08-28_08:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/nofire/20190831/DONE.wrfout_d01_2019-08-28_09:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/nofire/20190831/DONE.wrfout_d01_2019-08-28_10:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/nofire/20190831/DONE.wrfout_d01_2019-08-28_11:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/nofire/20190831/DONE.wrfout_d01_2019-08-28_12:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/nofire/20190831/DONE.wrfout_d01_2019-08-28_13:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/nofire/20190831/DONE.wrfout_d01_2019-08-28_14:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/nofire/20190831/DONE.wrfout_d01_2019-08-28_15:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/nofire/20190831/DONE.wrfout_d01_2019-08-28_16:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/nofire/20190831/DONE.wrfout_d01_2019-08-28_17:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/nofire/20190831/DONE.wrfout_d01_2019-08-28_18:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/nofire/20190831/DONE.wrfout_d01_2019-08-28_19:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/nofire/20190831/DONE.wrfout_d01_2019-08-28_20:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/nofire/20190831/DONE.wrfout_d01_2019-08-28_21:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/nofire/20190831/DONE.wrfout_d01_2019-08-28_22:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/nofire/20190831/DONE.wrfout_d01_2019-08-28_23:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/nofire/20190831/DONE.wrfout_d01_2019-08-29_00:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/nofire/20190831/DONE.wrfout_d01_2019-08-29_01:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/nofire/20190831/DONE.wrfout_d01_2019-08-29_02:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/nofire/20190831/DONE.wrfout_d01_2019-08-29_03:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/nofire/20190831/DONE.wrfout_d01_2019-08-29_04:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/nofire/20190831/DONE.wrfout_d01_2019-08-29_05:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/nofire/20190831/DONE.wrfout_d01_2019-08-29_06:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/nofire/20190831/DONE.wrfout_d01_2019-08-29_07:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/nofire/20190831/DONE.wrfout_d01_2019-08-29_08:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/nofire/20190831/DONE.wrfout_d01_2019-08-29_09:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/nofire/20190831/DONE.wrfout_d01_2019-08-29_10:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/nofire/20190831/DONE.wrfout_d01_2019-08-29_11:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/nofire/20190831/DONE.wrfout_d01_2019-08-29_12:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/nofire/20190831/DONE.wrfout_d01_2019-08-29_13:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/nofire/20190831/DONE.wrfout_d01_2019-08-29_14:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/nofire/20190831/DONE.wrfout_d01_2019-08-29_15:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/nofire/20190831/DONE.wrfout_d01_2019-08-29_16:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/nofire/20190831/DONE.wrfout_d01_2019-08-29_17:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/nofire/20190831/DONE.wrfout_d01_2019-08-29_18:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/nofire/20190831/DONE.wrfout_d01_2019-08-29_19:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/nofire/20190831/DONE.wrfout_d01_2019-08-29_20:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/nofire/20190831/DONE.wrfout_d01_2019-08-29_21:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/nofire/20190831/DONE.wrfout_d01_2019-08-29_22:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/nofire/20190831/DONE.wrfout_d01_2019-08-29_23:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/nofire/20190831/DONE.wrfout_d01_2019-08-30_00:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/nofire/20190831/DONE.wrfout_d01_2019-08-30_01:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/nofire/20190831/DONE.wrfout_d01_2019-08-30_02:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/nofire/20190831/DONE.wrfout_d01_2019-08-30_03:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/nofire/20190831/DONE.wrfout_d01_2019-08-30_04:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/nofire/20190831/DONE.wrfout_d01_2019-08-30_05:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/nofire/20190831/DONE.wrfout_d01_2019-08-30_06:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/nofire/20190831/DONE.wrfout_d01_2019-08-30_07:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/nofire/20190831/DONE.wrfout_d01_2019-08-30_08:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/nofire/20190831/DONE.wrfout_d01_2019-08-30_09:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/nofire/20190831/DONE.wrfout_d01_2019-08-30_10:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/nofire/20190831/DONE.wrfout_d01_2019-08-30_11:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/nofire/20190831/DONE.wrfout_d01_2019-08-30_12:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/nofire/20190831/DONE.wrfout_d01_2019-08-30_13:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/nofire/20190831/DONE.wrfout_d01_2019-08-30_14:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/nofire/20190831/DONE.wrfout_d01_2019-08-30_15:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/nofire/20190831/DONE.wrfout_d01_2019-08-30_16:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/nofire/20190831/DONE.wrfout_d01_2019-08-30_17:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/nofire/20190831/DONE.wrfout_d01_2019-08-30_18:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/nofire/20190831/DONE.wrfout_d01_2019-08-30_19:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/nofire/20190831/DONE.wrfout_d01_2019-08-30_20:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/nofire/20190831/DONE.wrfout_d01_2019-08-30_21:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/nofire/20190831/DONE.wrfout_d01_2019-08-30_22:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/nofire/20190831/DONE.wrfout_d01_2019-08-30_23:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/nofire/20190831/DONE.wrfout_d01_2019-08-31_00:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/nofire/20190831/DONE.wrfout_d01_2019-08-31_01:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/nofire/20190831/DONE.wrfout_d01_2019-08-31_02:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/nofire/20190831/DONE.wrfout_d01_2019-08-31_03:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/nofire/20190831/DONE.wrfout_d01_2019-08-31_04:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/nofire/20190831/DONE.wrfout_d01_2019-08-31_05:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/nofire/20190831/DONE.wrfout_d01_2019-08-31_06:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/nofire/20190831/DONE.wrfout_d01_2019-08-31_07:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/nofire/20190831/DONE.wrfout_d01_2019-08-31_08:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/nofire/20190831/DONE.wrfout_d01_2019-08-31_09:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/nofire/20190831/DONE.wrfout_d01_2019-08-31_10:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/nofire/20190831/DONE.wrfout_d01_2019-08-31_11:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/nofire/20190831/DONE.wrfout_d01_2019-08-31_12:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/nofire/20190831/DONE.wrfout_d01_2019-08-31_13:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/nofire/20190831/DONE.wrfout_d01_2019-08-31_14:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/nofire/20190831/DONE.wrfout_d01_2019-08-31_15:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/nofire/20190831/DONE.wrfout_d01_2019-08-31_16:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/nofire/20190831/DONE.wrfout_d01_2019-08-31_17:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/nofire/20190831/DONE.wrfout_d01_2019-08-31_18:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/nofire/20190831/DONE.wrfout_d01_2019-08-31_19:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/nofire/20190831/DONE.wrfout_d01_2019-08-31_20:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/nofire/20190831/DONE.wrfout_d01_2019-08-31_21:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+File /nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/wrfout/nofire/20190831/DONE.wrfout_d01_2019-08-31_22:00:00 does not exist, not erasing tiles and resubmitting
+qsub ./runjoiner.csh
+/bin/rm: cannot remove 'rsl.*': No such file or directory
+/nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/run_scripts/run_wrf_tracer_inversion_part1_daily.sh: line 88: qsub: command not found
+/nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/run_scripts/run_wrf_tracer_inversion_part1_daily.sh: line 92: qsub: command not found
+/nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/run_scripts/run_wrf_tracer_inversion_part1_daily.sh: line 98: qstat: command not found
+/nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/run_scripts/run_wrf_tracer_inversion_part1_daily.sh: line 106: qstat: command not found
+/bin/cp: cannot stat '/nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/WRF_run/tracer/rsl.error.0000': No such file or directory
+/bin/cp: cannot stat '/nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/WRF_run/nofire/rsl.error.0000': No such file or directory
+/bin/mv: cannot stat '/nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/WRF_run/nofire/wrfout_d0*': No such file or directory
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+./submit_runjoiner_reserve.sh: line 80: qsub: command not found
+/nobackup/ctrujil1/WRF/Tracer_Code/runs/XinxinCode/run_scripts/run_wrf_tracer_inversion_part1_daily.sh: line 132: qstat: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
+./erase_wrfout_tile_files_reserve.sh: line 83: qsub: command not found
